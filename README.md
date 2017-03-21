@@ -10,12 +10,12 @@ min_cost(month, min) = min_cost(month+1, min+current_min)
 
 dynamic table:
 
-   m1  m2  m3  m4  m5  m6  m7  m8  m9  m10 m11 m12
+   m1  m2  m3  m4  m5  m6  m7  m8  m9  m10 m11 m12    
 NYC                                         28  24   
 cost                                          20      
 LA                                          8   20  
 cost                                          10   
-DEN                                         5   15  
+DEN                                         5   15    
 cost                                          15  
 
 

@@ -10,15 +10,6 @@ min_cost(month, min) = min_cost(month+1, min+current_min)
 
 dynamic table:
 
-   m1  m2  m3  m4  m5  m6  m7  m8  m9  m10 m11 m12    
-NYC                                         28  24<br />   
-cost                                          20<br />      
-LA                                          8   20<br />  
-cost                                          10<br />   
-DEN                                         5   15<br />     
-cost                                          15 <br /> 
-
-
 dp algo pseudo code:
 
 
